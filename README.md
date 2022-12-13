@@ -8,8 +8,10 @@ I am fairly experienced in using Java, C++, C, Python, Lua, HTML and JavaScript.
 
 I am currently putting time into learning C#, Unity, Unreal Engine and kubernetes.
 
+Finished projects:
+- A Memory Card game built using unity. Can be played on itch.io at https://htd77.itch.io/simple-memory-game
+
 My current projects: 
-- Developing a third person game in unity that I plan on porting on Android devices.
-- Refining my lua and C++ to start working on a C++ based project in Unreal Engine that uses embedded lua scripts
+- Developing a first person game in Unreal Engine using C++ and blender.
 
 Thank you to all those who took time to read this. I hope that you find something interesting here.
