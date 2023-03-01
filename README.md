@@ -13,5 +13,6 @@ Finished projects:
 
 My current projects: 
 - Developing a first person game in Unreal Engine using C++ and blender.
+- Learning to optimize code using DirectX 11 and its library.
 
 Thank you to all those who took time to read this. I hope that you find something interesting here.
